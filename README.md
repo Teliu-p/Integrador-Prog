@@ -16,3 +16,6 @@ Sistema desarrollado para **Programación I** que implementa algoritmos fundamen
 
 ---
 
+Link del video explicativo: https://www.youtube.com/watch?v=wbVOfFRRq30
+
+
